@@ -1,0 +1,11 @@
+{
+    "devel": {
+        "app_function": "api.app.app",
+        "aws_region": "us-east-2",
+        "profile_name": "default",
+        "project_name": "text-class",
+        "runtime": "python3.8",
+	    "slim_handler": true,
+        "s3_bucket": "lambda-model"
+    }
+}
